@@ -1,12 +1,12 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Tianfu Wang
-    # - name: Date of Birth
-    #   value: 14th March 1879
-    - name: Languages
-      value: Chinese, English
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Tianfu Wang
+#     # - name: Date of Birth
+#     #   value: 14th March 1879
+#     - name: Languages
+#       value: Chinese, English
 
 - title: Education
   type: time_table
@@ -55,27 +55,33 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Undergraduate Thesis, Chongqing
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Outstanding Student, Chongqing University
+    - year: 2021
+      items: 
+        - National Scholarship
+        - Smart Dock Future Star, Huawei
+        - National First Prize, C4-Net Challenge
+        - M Prize, Mathematical Contest in Modeling
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Programming Languages:</b> Python, Java, SQL
+    - <b>Frameworks & Tools:</b> PyTorch, Vue, Hadoop, Docker, Git
