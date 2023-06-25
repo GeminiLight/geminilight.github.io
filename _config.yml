@@ -7,8 +7,8 @@ first_name: Tianfu
 middle_name: 
 last_name: Wang
 email: tianfuwang.cs@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Master Student at USTC.
+# description: > # the ">" symbol means to ignore newlines until "footer_text:"
+#   Master Student at USTC.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -105,8 +105,8 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# contact_note: >
+#   You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
