@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a master student at [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://hkust-gz.edu.cn/people/hui-xiong/). I received my B.S. degree from [School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [ChongQiong University](https://www.cqu.edu.cn/) in 2018.
+I am a master student at [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://hkust-gz.edu.cn/people/hui-xiong/). I received my B.S. degree from [School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [ChongQiong University](https://www.cqu.edu.cn/) in 2022.
 
 My research interests include 
 - Data Mining (Graph Mining and Reinforcement Learning)
