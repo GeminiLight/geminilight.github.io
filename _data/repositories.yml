@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - GeminiLight
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - GeminiLight/virne
+  - GeminiLight/sdn-nfv-papers
+  - datawhalechina/statistical-learning-method-solutions-manual
+  - GeminiLight/edge-server-placement
