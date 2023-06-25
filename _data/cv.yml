@@ -30,7 +30,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Research Intern @ Microsoft
       institution: Microsoft Internet Engineering Institute, Suzhou, China
       year: 2022 - now
       description:
@@ -39,7 +39,7 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Research Intern
+    - title: Research Intern @ JD
       institution: JingDong Explore Research Academy, Beijing, China
       year: 2021 - 2022
       description:
