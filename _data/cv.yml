@@ -15,18 +15,17 @@
       institution: University of Science and Technology of China, Hefei, China
       year: 2022 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Supervisor: <a href="https://hkust-gz.edu.cn/people/hui-xiong/">Prof. Hui Xiong</a>
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: Bachelor @ CQU
       institution: Chongqing University, Chongqing, China
       year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Rank: 6/256, GPA: 3.81/4.0
 
 - title: Experience
   type: time_table
@@ -36,7 +35,6 @@
       year: 2022 - now
       description:
         - Mentor: <a href="https://www.microsoft.com/en-us/research/people/nicholasyuan/">Nicholas Jing Yuan</a>
-        - Description 2.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -47,17 +45,12 @@
       description:
         - Mentor: <a href="https://sites.google.com/site/mathshenli/home">Shen Li</a>
 
-
-
-
-
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
