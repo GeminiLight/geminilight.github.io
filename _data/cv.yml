@@ -15,7 +15,7 @@
       institution: University of Science and Technology of China, Hefei, China
       year: 2022 - now
       description:
-        - Supervisor: <a href="https://hkust-gz.edu.cn/people/hui-xiong/">Prof. Hui Xiong</a>
+        - Supervised by <a href="https://hkust-gz.edu.cn/people/hui-xiong/">Prof. Hui Xiong</a>
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -25,7 +25,7 @@
       institution: Chongqing University, Chongqing, China
       year: 2018 - 2022
       description:
-        - Rank: 6/256, GPA: 3.81/4.0
+        - Rank 6/256, GPA 3.81/4.0
 
 - title: Experience
   type: time_table
@@ -34,7 +34,7 @@
       institution: Microsoft Internet Engineering Institute, Suzhou, China
       year: 2022 - now
       description:
-        - Mentor: <a href="https://www.microsoft.com/en-us/research/people/nicholasyuan/">Nicholas Jing Yuan</a>
+        - Mentored by <a href="https://www.microsoft.com/en-us/research/people/nicholasyuan/">Nicholas Jing Yuan</a>
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -43,7 +43,7 @@
       institution: JingDong Explore Research Academy, Beijing, China
       year: 2021 - 2022
       description:
-        - Mentor: <a href="https://sites.google.com/site/mathshenli/home">Shen Li</a>
+        - Mentored by <a href="https://sites.google.com/site/mathshenli/home">Shen Li</a>
 
 # - title: Open Source Projects
 #   type: time_table
