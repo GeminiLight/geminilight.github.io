@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://geminilight.github.io/homepage/sitemap.xml
+Sitemap: https://geminilight.github.io/homepage//sitemap.xml
