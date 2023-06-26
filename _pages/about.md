@@ -30,13 +30,13 @@ My research interests include
 
 
 <a href="mailto:tianfuwang@mail.ustc.edu.cn" title="Email" rel="external nofollow noopener" target="_blank">
-<i class="fas fa-envelope"></i> Email
+<i class="fas fa-envelope"></i>&nbsp;Email
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/GeminiLight" title="GitHub" rel="external nofollow noopener" target="_blank">
-<i class="fab fa-github"></i> Github
+<i class="fab fa-github"></i>&nbsp;Github
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank">
-<i class="ai ai-google-scholar"></i>Google Scholar
+<i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
 </a>
