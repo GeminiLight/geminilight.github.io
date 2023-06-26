@@ -18,7 +18,7 @@ keywords: tianfu wang, ustc, data mining, academic-website  # add your own keywo
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://geminilight.github.io # the base hostname & protocol for your site
 baseurl: /homepage/ # the subpath of your site, e.g. /blog/
@@ -57,7 +57,8 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
+# 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
