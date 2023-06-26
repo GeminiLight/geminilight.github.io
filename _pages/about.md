@@ -28,6 +28,7 @@ My research interests include
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+---
 
 <a href="mailto:tianfuwang@mail.ustc.edu.cn" title="Email" rel="external nofollow noopener" target="_blank">
 <i class="fas fa-envelope"></i>&nbsp;Email
@@ -40,3 +41,5 @@ My research interests include
 <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank">
 <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
 </a>
+
+---
