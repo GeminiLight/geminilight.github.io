@@ -29,4 +29,10 @@ My research interests include
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-<a href="https://github.com/GeminiLight" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i></a>
+<a href="mailto:tianfuwang@mail.ustc.edu.cn" title="Email" rel="external nofollow noopener" target="_blank">
+<i class="fab fa-email">Email</i> 
+</a>
+&nbsp&nbsp|&nbsp&nbsp
+<a href="https://github.com/GeminiLight" title="GitHub" rel="external nofollow noopener" target="_blank">
+<i class="fab fa-github">Github</i> 
+</a>
