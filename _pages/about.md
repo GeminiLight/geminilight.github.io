@@ -30,9 +30,9 @@ My research interests include
 
 
 <a href="mailto:tianfuwang@mail.ustc.edu.cn" title="Email" rel="external nofollow noopener" target="_blank">
-<i class="fab fa-email" font-weight=600></i> Email
+<i class="fab fa-envelope" font-weight=600></i> Email
 </a>
-&nbsp&nbsp|&nbsp&nbsp
+&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/GeminiLight" title="GitHub" rel="external nofollow noopener" target="_blank">
 <i class="fab fa-github"></i> Github
 </a>
