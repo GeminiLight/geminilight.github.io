@@ -27,7 +27,7 @@
       year: 2018 - 2022
       description:
         - Major in Software Engineering
-        - Rank 6/256 (Top 3%), GPA 3.81/4.0
+        - Rank 6/256 (Top 3%), GPA 3.78/4.0
 
 - title: Experience
   type: time_table
@@ -69,13 +69,22 @@
         - Outstanding Undergraduate Thesis, Chongqing
     - year: 2022
       items: 
+        - Outstanding Undergraduate Thesis, Chongqing University
         - Outstanding Student, Chongqing University
     - year: 2021
       items: 
-        - National Scholarship
-        - Smart Dock Future Star, Huawei
+        - National Scholarship, Chinese Ministry of Education
         - National First Prize, C4-Net Challenge
+        - Smart Dock Future Star, Huawei Inc.
         - M Prize, Mathematical Contest in Modeling
+    - year: 2020
+      items: 
+        - Outstanding student cadres, Chongqing University
+        - Advanced Youth Volunteer, Chongqing University
+    - year: 2019
+      items: 
+        - National Encouragement Scholarship, Chinese Ministry of Education
+
 
 # - title: Academic Interests
 #   type: nested_list
@@ -89,8 +98,10 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Skills
+- title: Skills and Hobbies
   type: list
   contents:
     - <b>Programming Languages:</b> Python, Java, SQL
-    - <b>Frameworks & Tools:</b> PyTorch, Vue, Hadoop, Docker, Git
+    - <b>Develop Frameworks:</b> PyTorch, Vue, Django, SpringBoot
+    - <b>Efficiency Tools:</b> Slide Making, Video Editing, Photo Editing
+    - <b>Self-Improvement:</b> Photography, Reading, Running, Pingpong
