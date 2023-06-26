@@ -14,7 +14,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a master student at [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://hkust-gz.edu.cn/people/hui-xiong/). I received my B.S. degree from [School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [ChongQiong University](https://www.cqu.edu.cn/) in 2022.
@@ -30,9 +30,9 @@ My research interests include
 
 
 <a href="mailto:tianfuwang@mail.ustc.edu.cn" title="Email" rel="external nofollow noopener" target="_blank">
-<i class="fab fa-email">Email</i> 
+<i class="fab fa-email" font-weight=600></i> Email
 </a>
 &nbsp&nbsp|&nbsp&nbsp
 <a href="https://github.com/GeminiLight" title="GitHub" rel="external nofollow noopener" target="_blank">
-<i class="fab fa-github">Github</i> 
+<i class="fab fa-github"></i> Github
 </a>
