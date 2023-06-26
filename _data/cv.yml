@@ -12,9 +12,10 @@
   type: time_table
   contents:
     - title: Master @ USTC
-      institution: University of Science and Technology of China, Hefei, China
+      institution: School of Computer Science and Technology <br /> University of Science and Technology of China, Hefei, China 
       year: 2022 - now
       description:
+        - Major in Computer Science and Technology
         - Supervised by <a href="https://hkust-gz.edu.cn/people/hui-xiong/">Prof. Hui Xiong</a>
         # - Description 2.
         # - title: Description 3.
@@ -22,10 +23,11 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: Bachelor @ CQU
-      institution: Chongqing University, Chongqing, China
+      institution: School of Big Data and Software Engineering <br /> Chongqing University, Chongqing, China
       year: 2018 - 2022
       description:
-        - Rank 6/256, GPA 3.81/4.0
+        - Major in Software Engineering
+        - Rank 6/256 (Top 3%), GPA 3.81/4.0
 
 - title: Experience
   type: time_table
