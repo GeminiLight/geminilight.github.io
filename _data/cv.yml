@@ -13,7 +13,7 @@
   contents:
     - title: Master @ USTC
       institution: School of Computer Science and Technology <br /> University of Science and Technology of China, Hefei, China 
-      year: 2022 - now
+      year: 2022.09 - now
       description:
         - Major in Computer Science and Technology
         - Supervised by <a href="https://hkust-gz.edu.cn/people/hui-xiong/">Prof. Hui Xiong</a>
@@ -24,7 +24,7 @@
         #     - Sub-description 2.
     - title: Bachelor @ CQU
       institution: School of Big Data and Software Engineering <br /> Chongqing University, Chongqing, China
-      year: 2018 - 2022
+      year: 2018.09 - 2022.06
       description:
         - Major in Software Engineering
         - Rank 6/256 (Top 3%), GPA 3.78/4.0
@@ -34,7 +34,7 @@
   contents:
     - title: Research Intern @ Microsoft
       institution: Microsoft Internet Engineering Institute, Suzhou, China
-      year: 2022 - now
+      year: 2022.06 - now
       description:
         - Mentored by <a href="https://www.microsoft.com/en-us/research/people/nicholasyuan/">Nicholas Jing Yuan</a>
         # - title: Description 3.
@@ -43,13 +43,13 @@
         #     - Sub-description 2.
     - title: Research Intern @ JD
       institution: JingDong Explore Research Academy, Beijing, China
-      year: 2021 - 2022
+      year: 2021.08 - 2022.04
       description:
         - Mentored by <a href="https://sites.google.com/site/mathshenli/home">Shen Li</a>
 
     - title: Research Assistant @ CQU
       institution: CPS Key Laboratory of Ministry of Education, Chongqing, China
-      year: 2019 - 2021
+      year: 2019.10 - 2021.08
       description:
         - Mentored by <a href="http://www.cse.cqu.edu.cn/info/2096/7112.htm">Prof. Qilin Fan</a>
 
