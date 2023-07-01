@@ -66,7 +66,7 @@
   contents:
     - year: 2023
       items: 
-        - Outstanding Undergraduate Thesis, Chongqing
+        - Outstanding Undergraduate Thesis, Chongqing City
     - year: 2022
       items: 
         - Outstanding Undergraduate Thesis, Chongqing University
@@ -104,7 +104,7 @@
 - title: Skills and Hobbies
   type: list
   contents:
-    - <b>Programming Languages:</b> Python, Java, SQL
+    - <b>Programming Languages:</b> Python, Java, SQL, HTML, TypeScript, Solidity
     - <b>Develop Frameworks:</b> PyTorch, Vue, Django, SpringBoot
     - <b>Efficiency Tools:</b> Slide Making, Video Editing, Photo Editing
     - <b>Self-Improvement:</b> Photography, Reading, Running, Pingpong
