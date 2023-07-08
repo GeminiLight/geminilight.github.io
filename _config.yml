@@ -274,8 +274,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Tianfu]
-  first_name: [Wang, W.]
+  last_name: [Wang, W.]
+  first_name: [Tianfu]
 
   style: apa
   locale: en
