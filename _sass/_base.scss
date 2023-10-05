@@ -115,7 +115,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 60%;
+  width: 100%;
 
   .address {
     margin-bottom: 5px;
@@ -126,6 +126,10 @@ blockquote {
       display: inline-block;
       margin: 0;
     }
+  }
+  // Customization
+  img {
+    width: 60%;
   }
 }
 
