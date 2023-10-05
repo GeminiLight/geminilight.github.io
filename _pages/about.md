@@ -44,3 +44,7 @@ My research interests include
 </a>
 
 ---
+
+**What's News**
+
+- 2022.07: One paper (co-author) on NFT Image Generation is accepted by MM-2023!
