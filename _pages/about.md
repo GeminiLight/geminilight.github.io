@@ -22,6 +22,7 @@ I am a master student at [School of Computer Science and Technology](http://cs.u
 My research interests include
 
 - Data Mining (Graph Mining and Reinforcement Learning)
+- Large Language Model (Agent and Application in Education)
 - Finance Technology (Non-Fungible Token and Portfolio)
 - Networking Optimization (Virtualization and Resource Management)
 
@@ -47,7 +48,7 @@ My research interests include
 
 **What's News**
 
-- 2023.10: One paper on Non-Fungible Token (first-author) is accepted by *KDD-2024 (CCF-A)*!
+- 2024.05: One paper on Non-Fungible Token (first-author) is accepted by *KDD-2024 (CCF-A)*!
 - 2024.04: Two papers on Virtual Network Embedding (first-author) and Recommendation System (co-author) are accepted by *IJCAI-2024 (CCF-A)*!
 - 2023.12: One paper on Service Function Chain (co-author) is accepted by *Acta Electronica Sinica (CCF-A, In Chinese)*!
 - 2023.10: One paper on Virtual Network Embedding (first-author) is accepted by *TSC (CCF-A)*!
