@@ -49,13 +49,13 @@ My research interests include
 **What's News**
 
 - 2024.05: One paper is accepted by **KDD-2024** (CCF-A)!
-  - Graph Learning for NFT Price Prediction (first-author)
+  - Temporal Graph Learning for NFT Price Prediction (first-author)
 - 2024.04: Two papers are accepted by **IJCAI-2024** (CCF-A)!
-  - Reinforcement Learning for Virtual Network Embedding (first-author)
+  - Meta Reinforcement Learning for Network Resource Allocation (first-author)
   - Graph Neural Network for Recommendation System (co-author)
 - 2023.12: One paper is accepted by **Acta Electronica Sinica** (CCF-A, In Chinese)!
   - Imitation Learning for Network Resource Allocation (co-author)
 - 2023.10: One paper is accepted by **TSC** (CCF-A)!
-  - Reinforcement Learning for Virtual Network Embedding (first-author)
+  - Hierarchal Reinforcement Learning for Network Resource Allocation (first-author)
 - 2023.07: One paper is accepted by **MM-2023** (CCF-A)!
-  - Reinforcement Learning and Diffusion Model for NFT Image Generation (co-author)
+  - Reinforcement Learning-based Diffusion Model for NFT Image Generation (co-author)
