@@ -34,9 +34,19 @@
   contents:
     - title: Research Intern @ Microsoft
       institution: Microsoft Internet Engineering Institute, Suzhou, China
-      year: 2022.06 - now
+      year: 2024.05 - now
       description:
-        - Mentored by <a href="https://www.microsoft.com/en-us/research/people/nicholasyuan/">Nicholas Jing Yuan</a>
+        - Mentored by <a href="https://www.microsoft.com/en-us/research/people/nicholasyuan/">Dr. Nicholas Jing Yuan</a>
+    - title: Research Assistant @ HKUST-GZ
+      institution: Hong Kong University of Science and Technology, Guangzhou, China
+      year: 2024.03 - 2024.05
+      description:
+        - Mentored by <a href="https://scholar.google.com/citations?user=j08V64UAAAAJ&hl=zh-CN">Prof. Chao Wang</a>
+    - title: Research Intern @ Microsoft
+      institution: Microsoft Internet Engineering Institute, Suzhou, China
+      year: 2022.06 - 2023.12
+      description:
+        - Mentored by <a href="https://www.microsoft.com/en-us/research/people/nicholasyuan/">Dr. Nicholas Jing Yuan</a>
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -45,7 +55,7 @@
       institution: JingDong Explore Research Academy, Beijing, China
       year: 2021.08 - 2022.04
       description:
-        - Mentored by <a href="https://sites.google.com/site/mathshenli/home">Shen Li</a>
+        - Mentored by <a href="https://sites.google.com/site/mathshenli/home">Prof. Shen Li</a>
 
     - title: Research Assistant @ CQU
       institution: CPS Key Laboratory of Ministry of Education, Chongqing, China

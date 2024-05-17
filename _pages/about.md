@@ -22,7 +22,7 @@ I am a master student at [School of Computer Science and Technology](http://cs.u
 My research interests include
 
 - Data Mining (Graph Mining and Reinforcement Learning)
-- Finance Technology (Web3 and Non-Fungible Token)
+- Finance Technology (Non-Fungible Token and Portfolio)
 - Networking Optimization (Virtualization and Resource Management)
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
@@ -47,5 +47,8 @@ My research interests include
 
 **What's News**
 
-- 2023.10: One paper (first-author) on Virtual Network Embedding is accepted by *TSC-2023 (CCF-A)*!
-- 2023.07: One paper (co-author) on NFT Image Generation is accepted by *MM-2023 (CCF-A)*!
+- 2023.10: One paper on Non-Fungible Token (first-author) is accepted by *KDD-2024 (CCF-A)*!
+- 2024.04: Two papers on Virtual Network Embedding (first-author) and Recommendation System (co-author) are accepted by *IJCAI-2024 (CCF-A)*!
+- 2023.12: One paper on Service Function Chain (co-author) is accepted by *Acta Electronica Sinica (CCF-A, In Chinese)*!
+- 2023.10: One paper on Virtual Network Embedding (first-author) is accepted by *TSC (CCF-A)*!
+- 2023.07: One paper on NFT Image Generation (co-author) is accepted by *MM-2023 (CCF-A)*!
