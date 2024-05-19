@@ -24,7 +24,7 @@ My research interests include
 - Data Mining (Graph Mining and Reinforcement Learning)
 - Large Language Model (Agent and Application in Education)
 - Finance Technology (Non-Fungible Token and Portfolio)
-- Networking Optimization (Virtualization and Resource Management)
+- Networking Optimization (Resource Allocation and Scheduling)
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
