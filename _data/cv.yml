@@ -81,16 +81,16 @@
   contents:
     - year: 2023
       items: 
-        - Outstanding Undergraduate Thesis, Chongqing City
+        - <b>Outstanding Undergraduate Thesis, Chongqing City</b>
     - year: 2022
       items: 
-        - Outstanding Undergraduate Thesis, Chongqing University
+        - <b>Outstanding Undergraduate Thesis, Chongqing University<b>
         - Outstanding Student, Chongqing University
     - year: 2021
       items:
-        - National Scholarship, Chinese Ministry of Education
-        - National First Prize, China Collegiate Computing Contest - Network Technology Challenge
-        - Smart Dock Future Star, Huawei Inc.
+        - <b>National Scholarship, Chinese Ministry of Education</b>
+        - <b>National First Prize, China Collegiate Computing Contest - Network Technology Challenge</b>
+        - <b>Smart Dock Future Star, Huawei Inc.</b>
         - M Prize, Mathematical Contest in Modeling (MCM)
         - National Third Prize, China University Student Service Outsourcing Innovation Contest
         - National Third Prize, Lan Qiao Cup Programming Contest
