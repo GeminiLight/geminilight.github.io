@@ -19,12 +19,27 @@ social: false  # includes social icons at the bottom of the page
 
 I am a master student at [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). Previously, I received my B.E. degree from [School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/) in 2022.
 
-My research interests include
+My research interest focuses on Decision Intelligence, particularly in:
 
-- Data Mining (Graph Mining and Reinforcement Learning)
-- Large Language Model (Agent and Application in Education)
-- Finance Technology (Non-Fungible Token and Portfolio)
+- Large Language Model, Reinforcement Learning and Graph Neural Network
+- Intelligent Education, Networking Optimization and Finance Technology
+
+<!-- Foundational Methods: Large Language Model (LLM), Reinforcement Learning (RL) and Graph Neural Network (GNN) -->
+<!-- - Practical Applications -->
+  <!-- - Intelligent Education, Networking Resource Management and Finance Technology -->
+
+
+
+<!-- - Intelligent Education (Large Language Model and Agent)
 - Networking Optimization (Resource Allocation and Scheduling)
+- Finance Technology (Portfolio Management and Non-Fungible Token) -->
+
+
+<!-- Large Language Model (Agent and Application in Education) -->
+
+<!-- - Decision Intelligence (Portfolio and Resource Allocation) -->
+<!-- Large Language Model (Agent and Application in Education) -->
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
@@ -48,14 +63,16 @@ My research interests include
 
 **What's News**
 
-- `2024.05`: One paper is accepted by **KDD-2024** (CCF-A)!
-  - :star2: Temporal Graph Learning for NFT Price Prediction (first-author)
-- `2024.04`: Two papers are accepted by **IJCAI-2024** (CCF-A)!
-  - :star2: Meta Reinforcement Learning for Network Resource Allocation (first-author)
-  - :sparkles: Graph Neural Network for Recommendation System (co-author)
-- `2023.12`: One paper is accepted by **Acta Electronica Sinica** (CCF-A, In Chinese)!
-  - :sparkles: Imitation Learning for Network Resource Allocation (co-author)
-- `2023.10`: One paper is accepted by **TSC** (CCF-A)!
-  - :star2: Hierarchal Reinforcement Learning for Network Resource Allocation (first-author)
-- `2023.07`: One paper is accepted by **MM-2023** (CCF-A)!
-  - :sparkles: Reinforcement Learning-based Diffusion Model for NFT Image Generation (co-author)
+- `2024.10`: One paper is accepted by **VLDB-2025**!
+  - :star2: Direct Optimization for Risk-controllable Portfolio Management <span style="color: #34d4e3;">(co-first-author)</span>
+- `2024.05`: One paper is accepted by **KDD-2024**!
+  - :star2: Wallet Profiling with Temporal GNN for NFT Price Prediction <span style="color: #34d4e3;">(first-author)</span>
+- `2024.04`: Two papers are accepted by **IJCAI-2024**!
+  - :star2: Meta RL for Generalizable Network Resource Allocation <span style="color: #34d4e3;">(first-author)</span>
+  - :sparkles: Over-smoothing of GNN in Recommendation System <span style="color: #66dd7a;">(co-author)</span>
+- `2023.12`: One paper is accepted by **电子学报**!
+  - :sparkles: Imitation Learning for Network Resource Allocation <span style="color: #66dd7a;">(co-author)</span>
+- `2023.10`: One paper is accepted by **TSC**!
+  - :star2: Hierarchal RL for Online Network Resource Allocation <span style="color: #34d4e3;">(first-author)</span>
+- `2023.07`: One paper is accepted by **MM-2023**!
+  - :sparkles: RL-based Diffusion Model for Profit-oriented NFT Generation <span style="color: #66dd7a;">(co-author)</span>
