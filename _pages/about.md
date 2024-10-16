@@ -64,15 +64,17 @@ My research interest focuses on Decision Intelligence, particularly in:
 **What's News**
 
 - `2024.10`: One paper is accepted by **VLDB-2025**!
-  - :star2: Direct Optimization for Risk-controllable Portfolio Management <span style="color: #34d4e3;">(co-first-author)</span>
+  - :star2: Direct Optimization for Risk-controllable Portfolio Management <span style="color: #38c1d9;">(co-first-author)</span>
 - `2024.05`: One paper is accepted by **KDD-2024**!
-  - :star2: Wallet Profiling with Temporal GNN for NFT Price Prediction <span style="color: #34d4e3;">(first-author)</span>
+  - :star2: Wallet Profiling with Temporal GNN for NFT Price Prediction <span style="color: #38c1d9;">(first-author)</span>
 - `2024.04`: Two papers are accepted by **IJCAI-2024**!
-  - :star2: Meta RL for Generalizable Network Resource Allocation <span style="color: #34d4e3;">(first-author)</span>
-  - :sparkles: Over-smoothing of GNN in Recommendation System <span style="color: #66dd7a;">(co-author)</span>
+  - :star2: Meta RL for Generalizable Network Resource Allocation <span style="color: #38c1d9;">(first-author)</span>
+  - :sparkles: Over-smoothing of GNN in Recommendation System <span style="color: #38d9ae;">(co-author)</span>
 - `2023.12`: One paper is accepted by **电子学报**!
-  - :sparkles: Imitation Learning for Network Resource Allocation <span style="color: #66dd7a;">(co-author)</span>
+  - :sparkles: Imitation Learning for Network Resource Allocation <span style="color: #38d9ae;">(co-author)</span>
 - `2023.10`: One paper is accepted by **TSC**!
-  - :star2: Hierarchal RL for Online Network Resource Allocation <span style="color: #34d4e3;">(first-author)</span>
+  - :star2: Hierarchal RL for Online Network Resource Allocation <span style="color: #38c1d9;">(first-author)</span>
 - `2023.07`: One paper is accepted by **MM-2023**!
-  - :sparkles: RL-based Diffusion Model for Profit-oriented NFT Generation <span style="color: #66dd7a;">(co-author)</span>
+  - :sparkles: RL-based Diffusion Model for Profit-oriented NFT Generation <span style="color: #38d9ae;">(co-author)</span>
+
+
