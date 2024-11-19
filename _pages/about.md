@@ -63,6 +63,8 @@ My research interest focuses on Decision Intelligence, particularly in:
 
 **What's News**
 
+- `2024.11`: One paper is accepted by **VLDB-2025**!
+  - :sparkles: Data-Aware Distance Estimation for Nearest Neighbor Search <span style="color: #38d9ae;">(co-author)</span>
 - `2024.10`: One paper is accepted by **VLDB-2025**!
   - :star2: Direct Optimization for Risk-controllable Portfolio Management <span style="color: #38c1d9;">(co-first-author)</span>
 - `2024.05`: One paper is accepted by **KDD-2024**!
