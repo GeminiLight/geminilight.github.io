@@ -22,7 +22,7 @@ I am a master student at [School of Computer Science and Technology](http://cs.u
 My research interest focuses on Decision Intelligence, particularly in:
 
 - Large Language Model, Reinforcement Learning and Graph Neural Network
-- Intelligent Education, Networking Optimization and Finance Technology
+- Social Computing, Networking Optimization and Finance Technology
 
 <!-- Foundational Methods: Large Language Model (LLM), Reinforcement Learning (RL) and Graph Neural Network (GNN) -->
 <!-- - Practical Applications -->
