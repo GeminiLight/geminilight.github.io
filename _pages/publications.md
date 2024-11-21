@@ -8,6 +8,8 @@ nav: true
 nav_order: 1
 ---
 
+> * means equal contribution.
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
