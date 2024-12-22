@@ -23,6 +23,14 @@ $max-content-width: {{ site.max_width }};
   }
 }
 
+@media (min-width: 800px) {
+  .col-sm-8 {
+      -ms-flex: 0 0 80%;
+      flex: 0 0 80%;
+      max-width: 80%;
+  }
+}
+
 .badge {
   min-width: 100px;
   color: #fff !important;
