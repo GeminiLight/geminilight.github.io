@@ -25,9 +25,9 @@ $max-content-width: {{ site.max_width }};
 
 @media (min-width: 800px) {
   .col-sm-8 {
-      -ms-flex: 0 0 86%;
-      flex: 0 0 86%;
-      max-width: 86%;
+      -ms-flex: 0 0 82%;
+      flex: 0 0 82%;
+      max-width: 82%;
   }
 }
 
