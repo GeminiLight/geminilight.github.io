@@ -64,7 +64,7 @@ My research interest focuses on Decision Intelligence, particularly in:
 **What's News**
 
 - `2025.01`: One paper is accepted by **WWW-2025**!
-  - :sparkles: Agentic LLM Framework for Goal-oriented Learning in ITS <span style="color: #38c1d9;">(first-author)</span>
+  - :star2: Agentic LLM Framework for Goal-oriented Learning in ITS <span style="color: #38c1d9;">(first-author)</span>
   
 - `2024.11`: One paper is accepted by **ICDE-2025**!
   - :sparkles: Similar Subtrajectory Search Considering Constraints and Simplification <span style="color: #38d9ae;">(co-author)</span>
@@ -85,6 +85,31 @@ My research interest focuses on Decision Intelligence, particularly in:
 <details>
 <summary>Show More</summary>
 
+  <ul>
+    <li><b>2023.12</b>: One paper is accepted by <b>电子学报</b>!
+      <ul>
+        <li>✨ <i>Imitation Learning for Network Resource Allocation</i> <span style="color: #38d9ae;">(co-author)</span></li>
+      </ul>
+    </li>
+    <li><b>2023.10</b>: One paper is accepted by <b>TSC</b>!
+      <ul>
+        <li>⭐ <i>Hierarchal RL for Online Network Resource Allocation</i> <span style="color: #38c1d9;">(first-author)</span></li>
+      </ul>
+    </li>
+    <li><b>2023.07</b>: One paper is accepted by <b>MM-2023</b>!
+      <ul>
+        <li>✨ <i>RL-based Diffusion Model for Profit-oriented NFT Generation</i> <span style="color: #38d9ae;">(co-author)</span></li>
+      </ul>
+    </li>
+  </ul>
+  
+</details>
+
+<div id="clustrmaps-container" style="display: none;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RA8hUCHuQe5eU80OYwni9gIAOb03nXte-HCaXlaosFg&cl=ffffff&w=a"></script>
+</div>
+
+<!-- 
 - `2023.12`: One paper is accepted by **电子学报**!
   - :sparkles: Imitation Learning for Network Resource Allocation <span style="color: #38d9ae;">(co-author)</span>
 
@@ -92,9 +117,4 @@ My research interest focuses on Decision Intelligence, particularly in:
   - :star2: Hierarchal RL for Online Network Resource Allocation <span style="color: #38c1d9;">(first-author)</span>
 
 - `2023.07`: One paper is accepted by **MM-2023**!
-  - :sparkles: RL-based Diffusion Model for Profit-oriented NFT Generation <span style="color: #38d9ae;">(co-author)</span>
-</details>
-
-<div id="clustrmaps-container" style="display: none;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RA8hUCHuQe5eU80OYwni9gIAOb03nXte-HCaXlaosFg&cl=ffffff&w=a"></script>
-</div>
+  - :sparkles: RL-based Diffusion Model for Profit-oriented NFT Generation <span style="color: #38d9ae;">(co-author)</span> -->
