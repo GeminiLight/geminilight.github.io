@@ -63,23 +63,37 @@ My research interest focuses on Decision Intelligence, particularly in:
 
 **What's News**
 
+- `2025.01`: One paper is accepted by **WWW-2025**!
+  - :sparkles: Agentic LLM Framework for Goal-oriented Learning in ITS <span style="color: #38c1d9;">(first-author)</span>
+  
 - `2024.11`: One paper is accepted by **ICDE-2025**!
   - :sparkles: Similar Subtrajectory Search Considering Constraints and Simplification <span style="color: #38d9ae;">(co-author)</span>
+
 - `2024.11`: One paper is accepted by **VLDB-2025**!
   - :sparkles: Data-Aware Distance Estimation for Nearest Neighbor Search <span style="color: #38d9ae;">(co-author)</span>
+
 - `2024.10`: One paper is accepted by **VLDB-2025**!
   - :star2: Direct Optimization for Risk-controllable Portfolio Management <span style="color: #38c1d9;">(co-first-author)</span>
+
 - `2024.05`: One paper is accepted by **KDD-2024**!
   - :star2: Wallet Profiling with Temporal GNN for NFT Price Prediction <span style="color: #38c1d9;">(first-author)</span>
+
 - `2024.04`: Two papers are accepted by **IJCAI-2024**!
   - :star2: Meta RL for Generalizable Network Resource Allocation <span style="color: #38c1d9;">(first-author)</span>
   - :sparkles: Over-smoothing of GNN in Recommendation System <span style="color: #38d9ae;">(co-author)</span>
+
+<details>
+<summary>Show More</summary>
+
 - `2023.12`: One paper is accepted by **电子学报**!
   - :sparkles: Imitation Learning for Network Resource Allocation <span style="color: #38d9ae;">(co-author)</span>
+
 - `2023.10`: One paper is accepted by **TSC**!
   - :star2: Hierarchal RL for Online Network Resource Allocation <span style="color: #38c1d9;">(first-author)</span>
+
 - `2023.07`: One paper is accepted by **MM-2023**!
   - :sparkles: RL-based Diffusion Model for Profit-oriented NFT Generation <span style="color: #38d9ae;">(co-author)</span>
+</details>
 
 <div id="clustrmaps-container" style="display: none;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RA8hUCHuQe5eU80OYwni9gIAOb03nXte-HCaXlaosFg&cl=ffffff&w=a"></script>
