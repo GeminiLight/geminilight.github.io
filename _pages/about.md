@@ -86,19 +86,19 @@ My research interest focuses on Decision Intelligence, particularly in:
 <summary>Show More</summary>
 
   <ul>
-    <li><b>2023.12</b>: One paper is accepted by <b>电子学报</b>!
+    <li><i>2023.12</i>: One paper is accepted by <b>电子学报</b>!
       <ul>
-        <li>✨ <i>Imitation Learning for Network Resource Allocation</i> <span style="color: #38d9ae;">(co-author)</span></li>
+        <li>✨ Imitation Learning for Network Resource Allocation <span style="color: #38d9ae;">(co-author)</span></li>
       </ul>
     </li>
-    <li><b>2023.10</b>: One paper is accepted by <b>TSC</b>!
+    <li><i>2023.10</i>: One paper is accepted by <b>TSC</b>!
       <ul>
-        <li>⭐ <i>Hierarchal RL for Online Network Resource Allocation</i> <span style="color: #38c1d9;">(first-author)</span></li>
+        <li>⭐ Hierarchal RL for Online Network Resource Allocation <span style="color: #38c1d9;">(first-author)</span></li>
       </ul>
     </li>
-    <li><b>2023.07</b>: One paper is accepted by <b>MM-2023</b>!
+    <li><i>2023.07</i>: One paper is accepted by <b>MM-2023</b>!
       <ul>
-        <li>✨ <i>RL-based Diffusion Model for Profit-oriented NFT Generation</i> <span style="color: #38d9ae;">(co-author)</span></li>
+        <li>✨ RL-based Diffusion Model for Profit-oriented NFT Generation <span style="color: #38d9ae;">(co-author)</span></li>
       </ul>
     </li>
   </ul>
