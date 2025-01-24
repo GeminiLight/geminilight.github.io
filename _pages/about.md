@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a master student at [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). Previously, I received my B.E. degree from [School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/) in 2022.
 
-My research interest focuses on Decision Intelligence, particularly in:
+My research interest focuses on Data Mining and Decision Intelligence, particularly in:
 
 - Large Language Model, Reinforcement Learning and Graph Neural Network
 - Social Computing, Networking Optimization and Finance Technology
