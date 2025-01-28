@@ -63,7 +63,7 @@ My research interest focuses on Data Mining and Decision Intelligence, particula
 
 **What's News**
 
-- `2025.01`: One paper is accepted by **WWW-2025**!
+- `2025.01`: One paper is accepted by **WWW-2025 Oral**!
   - :star2: Agentic LLM Framework for Goal-oriented Learning in ITS <span style="color: #38c1d9;">(first-author)</span>
   
 - `2024.11`: One paper is accepted by **ICDE-2025**!
