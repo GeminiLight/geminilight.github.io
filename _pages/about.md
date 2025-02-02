@@ -22,7 +22,7 @@ I am a master student at [School of Computer Science and Technology](http://cs.u
 My research interest focuses on Data Mining and Decision Intelligence, particularly in:
 
 - Large Language Model, Reinforcement Learning and Graph Neural Network
-- Social Computing, Networking Optimization and Finance Technology
+- Social Computing, Combinatorial Optimization on Networking and FinTech
 
 <!-- Foundational Methods: Large Language Model (LLM), Reinforcement Learning (RL) and Graph Neural Network (GNN) -->
 <!-- - Practical Applications -->
@@ -65,8 +65,6 @@ My research interest focuses on Data Mining and Decision Intelligence, particula
 
 - `2025.01`: One paper is accepted by **WWW-2025**!
   - :star2: <span style="color: #f77777; font-weight: bold;"> Oral&nbsp;&nbsp;</span>Agentic LLM Framework for Goal-oriented Learning in ITS <span style="color: #38c1d9;">(first-author)</span> 
-  
-
 
 - `2024.11`: One paper is accepted by **ICDE-2025**!
   - :sparkles: Similar Subtrajectory Search Considering Constraints and Simplification <span style="color: #38d9ae;">(co-author)</span>
