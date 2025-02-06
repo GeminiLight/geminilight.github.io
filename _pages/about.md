@@ -19,6 +19,8 @@ social: false  # includes social icons at the bottom of the page
 
 I am a master student at [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). Previously, I received my B.E. degree from [School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/) in 2022.
 
+<!-- I am a master student at [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). Prior to this, I received my B.E. degree (Software Engineering) from [Chongqing University](https://www.cqu.edu.cn/) in 2022. -->
+
 My research interest focuses on Data Mining and Decision Intelligence, particularly in:
 
 - Large Language Model, Reinforcement Learning and Graph Neural Network
@@ -57,6 +59,10 @@ My research interest focuses on Data Mining and Decision Intelligence, particula
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank">
 <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://dblp.org/pid/25/3611-2.html" title="DBLP" rel="external nofollow noopener" target="_blank">
+<i class="ai ai-dblp"></i>&nbsp;DBLP
 </a>
 
 ---
