@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- I am a master student at [School of Computer Science and Technology](http://cs.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). Previously, I received my B.E. degree from [School of Big Data and Software Engineering](http://www.cse.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/) in 2022. -->
 
-I am a master student (Computer Science) at [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). I am also a research intern at Microsoft, mentored by [Nicholas Jing Yuan](https://www.microsoft.com/en-us/research/people/nicholasyuan/) and [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). Prior to this, I received my B.E. degree (Software Engineering) from [Chongqing University](https://www.cqu.edu.cn/) in 2022.
+I am currently pursuing a Master’s degree in Computer Science at [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). I am also a research intern at Microsoft, mentored by [Dr. Nicholas Jing Yuan](https://www.microsoft.com/en-us/research/people/nicholasyuan/) and [Dr. Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). Prior to this, I received my B.E. degree in Software Engineering from [Chongqing University](https://www.cqu.edu.cn/) in 2022.
 
 My research interest focuses on Data Mining and Decision Intelligence, particularly in:
 
