@@ -58,7 +58,7 @@ My research interest focuses on Data Mining and Decision Intelligence, particula
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank">
-<i class="fa-brands fa-google-scholar"></i>&nbsp;Google Scholar
+<i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://dblp.org/pid/25/3611-2.html" title="DBLP" rel="external nofollow noopener" target="_blank">
@@ -66,8 +66,8 @@ My research interest focuses on Data Mining and Decision Intelligence, particula
 </a>
 
 ---
+<!-- <i class="fa-brands fa-google-scholar"></i>&nbsp;Google Scholar -->
 
-<!-- <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar -->
 
 **What's New**
 
