@@ -73,7 +73,7 @@ My research interest focuses on Data Mining and Decision Intelligence, particula
 **What's New**
 
 - `2025.01`: One paper is accepted by **WWW-2025**!
-  - :star2: <span style="color: #f77777; font-weight: bold;"> Oral&nbsp;&nbsp;</span>Agentic LLM Framework for Goal-oriented Learning in ITS <span style="color: #38c1d9;">(first-author)</span> [[🌐 Website](https://www.tianfuwang.tech/gen-mentor)]
+  - :star2: <span style="color: #f77777; font-weight: bold;"> Oral&nbsp;&nbsp;</span>Agentic LLM Framework for Goal-oriented Tutoring System <span style="color: #38c1d9;">(first-author)</span> [[🌐 Website](https://www.tianfuwang.tech/gen-mentor)]
 
 - `2024.11`: One paper is accepted by **ICDE-2025**!
   - :sparkles: Similar Subtrajectory Search Considering Constraints and Simplification <span style="color: #38d9ae;">(co-author)</span>
