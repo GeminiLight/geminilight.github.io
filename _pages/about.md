@@ -50,7 +50,7 @@ My research interest focuses on Data Mining and Decision Intelligence, particula
 
 ---
 
-<a href="mailto:tianfuwang@mail.ustc.edu.cn" title="Email" rel="external nofollow noopener" target="_blank">
+<a href="mailto:tianfuwang.cs@gmail.com" title="Email" rel="external nofollow noopener" target="_blank">
 <i class="fas fa-envelope"></i>&nbsp;Email
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
